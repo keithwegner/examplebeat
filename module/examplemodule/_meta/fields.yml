@@ -1,0 +1,10 @@
+- key: examplemodule
+  title: "examplemodule"
+  release: beta
+  description: >
+    examplemodule module
+  fields:
+    - name: examplemodule
+      type: group
+      description: >
+      fields:

@@ -1,0 +1,10 @@
+- name: examplemetricset
+  type: group
+  release: beta
+  description: >
+    examplemetricset
+  fields:
+    - name: example
+      type: keyword
+      description: >
+        Example field

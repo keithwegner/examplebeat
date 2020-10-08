@@ -1,0 +1,9 @@
+# Module: examplemodule
+# Docs: https://www.elastic.co/guide/en/beats/examplebeat/master/examplebeat-module-examplemodule.html
+
+- module: examplemodule
+  metricsets: ["examplemetricset"]
+  enabled: false
+  period: 10s
+  hosts: ["localhost"]
+

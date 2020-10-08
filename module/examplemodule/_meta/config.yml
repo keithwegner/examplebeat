@@ -1,0 +1,6 @@
+- module: examplemodule
+  metricsets: ["examplemetricset"]
+  enabled: false
+  period: 10s
+  hosts: ["localhost"]
+
